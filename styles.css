@@ -24,7 +24,7 @@ body{
 }
 
 .logo{
-    background-image: url("images/amazon_logo.png");
+    background-image: url("amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -129,7 +129,7 @@ span{
 
 /*main content*/
 .content{
-    background-image: url("images/mainsection_image.jpg");
+    background-image: url("mainsection_image.jpg");
     background-size: cover;
     height: 600px;
     margin-left: 8px;
